@@ -1,10 +1,12 @@
 Prerequisites
+
 Before running the project, ensure you have the following installed on your system:
 
 Node.js (Version 14 or later)
 npm (Node Package Manager, comes with Node.js)
 Git
 React.js (Installed automatically via dependencies)
+
 Running the Project
 Step 1: Clone the Repository
 Clone the project from GitHub to your local machine:
@@ -12,16 +14,22 @@ Clone the project from GitHub to your local machine:
 bash
 Copy code
 git clone https://github.com/floraaheh/Online_Quiz_Platform.git
+
+
 Step 2: Navigate to the Project Directory
 bash
 Copy code
 cd Online_Quiz_Platform
+
+
 Step 3: Install Dependencies
 Run the following command to install all the necessary packages:
 
 bash
 Copy code
 npm install
+
+
 Step 4: Build and Run the Application
 To start the development server, use the following command:
 
@@ -29,6 +37,7 @@ bash
 Copy code
 npm start
 This will launch the application at (https://sloba-react-quiz-app.netlify.app/) in your default web browser.
+![Screenshot 2024-09-28 104811](https://github.com/user-attachments/assets/16ccb989-383e-4199-84c5-0ddfc8e8cb3c)
 
 🚀 Project Functionalities
 The Online Quiz Platform provides an intuitive way to create, take, and evaluate quizzes. The platform offers the following functionalities:
@@ -42,9 +51,12 @@ Code Structure
 The codebase is structured into various components, each handling specific functionalities within the quiz platform:
 
 Components: All components of the project (like quiz creation, timer, and quiz taking) are structured within the src/components/ directory.
+
 QuizCreation.jsx: Manages the creation of quizzes by adding questions, options, and correct answers.
 Quiz.jsx: Handles the quiz-taking process, presenting questions and recording user answers.
 AnswerTimer.jsx: Implements a countdown timer for each quiz question.
+
+
 💻 Key Components
 Quiz Creation (QuizCreation.jsx)
 This component allows users to create quizzes by:
@@ -86,6 +98,7 @@ License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
 Technologies Used
+
 React.js: For building the frontend user interface.
 CSS: For styling the components and making the design responsive.
 Node.js & npm: For managing the project dependencies and running the development server.
@@ -99,5 +112,4 @@ Make your changes and commit them (git commit -m "Add new feature").
 Push to the branch (git push origin feature-branch).
 Open a pull request.
 
-![Screenshot 2024-09-28 104903](https://github.com/user-attachments/assets/a6c84336-80d2-4b95-b9ce-4088688570e3)
-![Screenshot 2024-09-28 104811](https://github.com/user-attachments/assets/16ccb989-383e-4199-84c5-0ddfc8e8cb3c)
+
