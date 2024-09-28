@@ -11,7 +11,7 @@ Clone the project from GitHub to your local machine:
 
 bash
 Copy code
-git clone https://github.com/yourusername/Online_Quiz_Platform.git
+git clone https://github.com/floraaheh/Online_Quiz_Platform.git
 Step 2: Navigate to the Project Directory
 bash
 Copy code
