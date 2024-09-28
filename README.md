@@ -28,12 +28,13 @@ To start the development server, use the following command:
 bash
 Copy code
 npm start
-This will launch the application at http://localhost:3000/ in your default web browser.
+This will launch the application at (https://sloba-react-quiz-app.netlify.app/) in your default web browser.
 
 🚀 Project Functionalities
 The Online Quiz Platform provides an intuitive way to create, take, and evaluate quizzes. The platform offers the following functionalities:
 
-Overview:
+**Overview:**
+
 Quiz Creation: Create quizzes with multiple-choice questions, specifying the correct answers.
 Quiz Taking: Users can take quizzes, select answers, and receive instant feedback on their performance.
 Real-time Results: The app calculates the score and provides detailed results once the quiz is completed.
