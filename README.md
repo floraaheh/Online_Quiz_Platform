@@ -71,7 +71,7 @@ Upon completing the quiz, their score is calculated in real-time and displayed.
 Timer (AnswerTimer.jsx)
 This component handles the countdown timer for each quiz question. When the timer runs out, the next question is automatically loaded, ensuring a time-bound quiz-taking experience.
 
-🛠️ Postman Collection (Optional)
+🛠️ Postman Collection 
 If your project includes any API calls for handling data, mention that the Postman collection is available for testing endpoints. For this project, the backend could be assumed as external APIs (though not covered here).
 
 📊 Sequence Diagram
@@ -102,7 +102,7 @@ Technologies Used
 React.js: For building the frontend user interface.
 CSS: For styling the components and making the design responsive.
 Node.js & npm: For managing the project dependencies and running the development server.
-Jest (optional): For testing components.
+
 Contributing
 Contributions are welcome! Feel free to fork the repository, create a new branch, and submit a pull request. Here's how to contribute:
 
